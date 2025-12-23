@@ -194,6 +194,7 @@ This is an updating survey for Continual Learning of Large Language Models (CL-L
 ## Continual Fine-Tuning of LLMs (CFT)
 
 ### General Continual Fine-Tuning
+- ⭐ Nested Learning: The Illusion of Deep Learning Architecture [[paper](https://openreview.net/pdf?id=nbMeRvNb7A)]
 - ⭐ PCL: Prompt-based Continual Learning for User Modeling in Recommender Systems [[paper](https://arxiv.org/abs/2502.19628)]
 - ⭐ Optimal Brain Iterative Merging: Mitigating Interference in LLM Merging [[paper](https://arxiv.org/abs/2502.12217)]
 - ⭐ SPARC: Subspace-Aware Prompt Adaptation for Robust Continual Learning in LLMs [[paper](https://arxiv.org/abs/2502.02909)]
